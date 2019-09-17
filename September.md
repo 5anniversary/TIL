@@ -15,4 +15,10 @@
 - 개인프로젝트 코딩 컨벤션에 맞게 리팩토링 시작
 
 
---
+---
+
+## 09.17
+
+- 스위프트 Toy 프로젝트 1 진행 
+  UIButton, UILabel extensions 생성
+  CoreLocation과 MapKit 사용
